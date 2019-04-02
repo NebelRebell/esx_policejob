@@ -35,5 +35,7 @@ client_scripts {
 
 dependencies {
 	'es_extended',
+	'esx_datastore',
+	'esx_identity',
 	'esx_billing'
 }
